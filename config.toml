@@ -1,0 +1,4 @@
+baseURL = "https://jidangyuxin.github.io/"
+languageCode = "zh-Hans"
+title = "激荡于心的博客"
+theme = "ananke"
